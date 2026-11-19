@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Anthony Ceasar Sumugat! 👋
 
-<!--
-**Tonyo0081427/Tonyo0081427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Computer Science Graduate
 
-Here are some ideas to get you started:
+I am an experienced Operations Support professional
+with 15+ years of experience in data management,
+reporting, document handling, and process improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing my technical skills in
+SQL, PostgreSQL, Data Analytics, and Data Visualization.
+
+## 🛠️ Technical Skills
+
+- SQL / PostgreSQL
+- Bash Scripting
+- Git and GitHub
+- Microsoft Excel
+- Google Sheets
+- Power BI (Learning)
+- Tableau (Learning)
+
+## 📂 Featured Projects
+
+### 1. World Cup Database
+PostgreSQL project involving relational databases,
+SQL queries, and football tournament statistics.
+
+### 2. Periodic Table Database
+PostgreSQL project using relational database
+concepts, constraints, and Bash scripting.
+
+### 3. Number Guessing Game
+Bash and PostgreSQL project featuring user
+management and game statistics.
+
+## 🎓 Certifications
+
+- freeCodeCamp – Relational Databases Certification
+  (Passed – 96% Exam Score)
+- freeCodeCamp – Python Certification
+  (Passed – 94% Exam Score)
+- SQL Introduction - simplilearn skillup
+- PowerBi - simplilearn skillup
+- Tableau Introduction - simplilearn skillup
+
+## 🎯 Career Interests
+
+- Data Analyst
+- Reporting Analyst
+- Business Intelligence Analyst
+- Operations Analyst
+- MIS Analyst
+- Data Management Specialist
+- Data Quality Analyst
+- Process Improvement Analyst
+- Quality Assurance Analyst
+- Database Assistant
+- SQL Developer (Entry-Level)
+- Business Process Analyst
+
+## 📫 Connect with Me
+
+GitHub: https://github.com/Tonyo0081427
