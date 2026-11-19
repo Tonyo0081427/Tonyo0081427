@@ -11,13 +11,13 @@ SQL, PostgreSQL, Data Analytics, and Data Visualization.
 
 ## 🛠️ Technical Skills
 
-- SQL / PostgreSQL
-- Bash Scripting
-- Git and GitHub
-- Microsoft Excel
-- Google Sheets
-- Power BI (Learning)
-- Tableau (Learning)
+- Programming: Python (Basic), Bash Scripting
+- Database Management: SQL, PostgreSQL
+- Data Analysis: Microsoft Excel, Google Sheets
+- Data Visualization: Power BI (Learning), Tableau (Learning)
+- Version Control: Git and GitHub
+- Reporting: KPI Monitoring, Data Reporting
+- Process Improvement: Kaizen, Quality Management
 
 ## 📂 Featured Projects
 
